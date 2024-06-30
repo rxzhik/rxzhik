@@ -12,6 +12,9 @@
 </h1>
 </div>
 
+<br/>
+
+
 ## 👨‍💻 About Me :
 I am Full Stack Web and Mobile Developer
   
@@ -55,3 +58,12 @@ I am Full Stack Web and Mobile Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React-Native" alt="React-Native" width="60" height="60"/>&nbsp;
 </div>
+
+<br/>
+
+## ⛹️‍♂️ Github Stats :
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rxzhik&theme=highcontrast&hide_border=true&border_radius=11.3" alt="GitHub Streak" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxzhik&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
