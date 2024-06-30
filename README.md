@@ -12,5 +12,12 @@
 </h1> 
 </div>
 
-### About Me 
+### About Me :
+- I am Full Stack Web and Mobile Developer.
+  
+- Currently I am building a startup called Roomates. I also do casual developer work at another startup called UCubed and I do freelance work for various clients on the side.
+
+- Technologies that I enjoy are AI & Machine Learning. It feels more like a quest to discover human intelligence which piques my interest. Blockchain, Web3 and its possibilities are some other technologies I like exploring.
+
+- I enjoy running, camping and traveling to discover new culture and places. I love reading philosophy books as well. 
 
