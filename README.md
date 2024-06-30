@@ -9,15 +9,49 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
-</h1> 
+</h1>
 </div>
 
-### About Me :
-- I am Full Stack Web and Mobile Developer.
+## 👨‍💻 About Me :
+I am Full Stack Web and Mobile Developer
   
-- Currently I am building a startup called Roomates. I also do casual developer work at another startup called UCubed and I do freelance work for various clients on the side.
+- 🔨 Currently I am building a startup called Roomates. I also do casual developer work at another startup called UCubed and I do freelance work for various clients on the side.
 
-- Technologies that I enjoy are AI & Machine Learning. It feels more like a quest to discover human intelligence which piques my interest. Blockchain, Web3 and its possibilities are some other technologies I like exploring.
+- 🔭 Technologies that I enjoy are AI & Machine Learning. It feels more like a quest to discover human intelligence which piques my interest. Blockchain, Web3 and its possibilities are some other technologies I like exploring.
 
-- I enjoy running, camping and traveling to discover new culture and places. I love reading philosophy books as well. 
+- 🏃 I enjoy running, camping and traveling to discover new culture and places. I love reading philosophy books as well. 
 
+<br/>
+
+## 🛠️ Languages and Tools :
+
+### Programming Languages
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="60" height="60"/>&nbsp;
+</div>
+
+### Web Development & Deployment
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material" alt="Material" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJs" alt="NodeJs" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="70" height="70"/>&nbsp;
+
+</div>
+
+### App Development
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React-Native" alt="React-Native" width="60" height="60"/>&nbsp;
+</div>
